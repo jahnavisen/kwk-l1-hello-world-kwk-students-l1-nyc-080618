@@ -6,4 +6,4 @@ puts "Hello".reverse
 puts "Hello".swapcase 
 puts "Hello".capitalize 
 puts "hi".length
-print "i love kode with klossy".length.upcase.
+puts "i love kode with klossy".length/upcase
