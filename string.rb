@@ -1,1 +1,2 @@
-puts "jahnavi.upcase"
+puts "jahnavi"
+puts ".upcase"
