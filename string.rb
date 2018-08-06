@@ -5,4 +5,4 @@ puts "Hello".downcase
 puts "Hello".reverse 
 puts "Hello".swapcase 
 puts "Hello".capitalize 
-puts "hi".lengths
+puts "hi".length
